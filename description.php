@@ -20,7 +20,7 @@
  } 
  }
  
- $f = new MyClass('20px','red','This is the first php file');
+ $f = new MyClass('45px','blue','This is the second php file');
 
  echo $f->customize_print();
  ?>
