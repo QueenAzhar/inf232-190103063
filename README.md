@@ -1,1 +1,2 @@
-# inf232-190103063
+This is my first page on github!
+I love :computer:, :hamburger:, :dancer:.
